@@ -1,0 +1,2 @@
+,OLS Linear Regression Relative Error (%),Ridge Regression Relative Error (%),Bayes Ridge Regression Relative Error (%),OLS Linear Regression Mean Training MSE,OLS Linear Regression Mean Test MSE,Ridge Regression Mean Training MSE,Ridge Regression Mean Test MSE,Ridge Regression Hyperparameter (alpha)
+0,139.3847138683985,131.00923840202628,3.18385690419975,0.0,7633.120513364271,0.9818902471307926,7307.368344956033,0.03906939937054617
